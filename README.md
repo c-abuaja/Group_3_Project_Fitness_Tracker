@@ -21,3 +21,9 @@ Questionnaire Ideas:
 ●	Do you regularly track your steps?
 
 ●	What’s your most common workout activity?
+
+## Group Members
+• Olabode Durosinmi
+• Georgina Joe.O
+• George Okafor
+• Chinedu Abuaja
